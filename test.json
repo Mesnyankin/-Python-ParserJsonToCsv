@@ -1,0 +1,206 @@
+{
+            "created": "2017-01-19T04:39:41.012",
+            "expired": "2017-01-21T04:39:41.012",
+            "id": "0000e0be-d2c6-4a89-ad37-8f71d0dd9e9a",
+            "mixed": false,
+            "pool_id": "189591",
+            "reward": 0.5,
+            "status": "EXPIRED",
+            "task_suite_id": "f1aa98d6-ff25-4dde-81f5-2587ccbe36af",
+            "tasks": [
+                {
+                    "id": "ffbc4048-cc5a-4578-b0d9-0705a588b55d",
+                    "input_values": {
+                        "address-ru": "\u0420\u043e\u0441\u0441\u0438\u044f, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0435\u0440\u0432\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u043a, 1-\u044f \u041f\u0438\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                        "company-id": "1542916387",
+                        "coordinates": "56.91969408920,60.03087172680",
+                        "country": "RU",
+                        "language": "RU",
+                        "name-ru": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
+                        "org-weight": "30",
+                        "rubric": [
+                            {
+                                "name-ru": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
+                                "rubric-id": 184108079
+                            }
+                        ]
+                    }
+                }
+            ],
+            "user_id": "165684b434e6390fb8da262978601397"
+        },
+        {
+            "created": "2017-02-24T16:08:10.280",
+            "expired": "2017-02-26T16:08:10.280",
+            "id": "0001b81e-dbcc-4de3-985d-4397b97dbffa",
+            "mixed": false,
+            "pool_id": "189591",
+            "reward": 0.5,
+            "status": "EXPIRED",
+            "task_suite_id": "5dcbbd70-e570-4026-8246-a30bb462f35d",
+            "tasks": [
+                {
+                    "id": "90437e00-d15c-4679-b7be-6d3660efdbce",
+                    "input_values": {
+                        "address-ru": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b., \u041a\u043e\u0440\u043e\u043b\u0435\u0432, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430, \u0443\u043b. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e, 12, \u043a\u043e\u0440\u043f.\u0412",
+                        "company-id": "662316782",
+                        "coordinates": "55.915326,37.869891",
+                        "country": "RU",
+                        "language": "RU",
+                        "meta": [
+                            {
+                                "permlink-id": 1119957838
+                            }
+                        ],
+                        "name-ru": "\u041d\u0435\u0430\u0442\u044d\u043b",
+                        "org-weight": "30",
+                        "rubric": [
+                            {
+                                "name-ru": "\u0420\u0435\u043c\u043e\u043d\u0442 \u0438\u0437\u043c\u0435\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u0432",
+                                "rubric-id": 184106846
+                            },
+                            {
+                                "name-ru": "\u0412\u043e\u0434\u043e\u0441\u0447\u0435\u0442\u0447\u0438\u043a\u0438, \u0433\u0430\u0437\u043e\u0441\u0447\u0435\u0442\u0447\u0438\u043a\u0438, \u0442\u0435\u043f\u043b\u043e\u0441\u0447\u0435\u0442\u0447\u0438\u043a\u0438",
+                                "rubric-id": 184106834
+                            },
+                            {
+                                "name-ru": "\u041e\u0442\u043e\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+                                "rubric-id": 184107475
+                            }
+                        ]
+                    }
+                }
+            ],
+            "user_id": "0ba1f0e613c9b1db5fcbddd342e44a15"
+        },
+        {
+            "accepted": "2016-12-12T16:13:09.772",
+            "created": "2016-12-09T14:16:43.240",
+            "id": "0002753a-04b3-43b9-8b36-417dbbd2e259",
+            "mixed": false,
+            "pool_id": "189591",
+            "reward": 0.5,
+            "solutions": [
+                {
+                    "output_values": {
+                        "address-no-org": [
+                            "7368d5da-48df-4779-91e5-2f03ac04b1d7",
+                            "84ae98a9-dae2-4ad9-8419-9cfe1db8dffa",
+                            "2e5017e7-b795-4f66-a1de-074df4bf136b"
+                        ],
+                        "address-ru": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0423\u0434\u0430\u043b\u044c\u0446\u043e\u0432\u0430, 42",
+                        "comment-no-org": "\u041e\u0442\u0434\u0435\u043b\u0430 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u0432 \u0442\u0446 \u043d\u0435\u0442",
+                        "company-id": "661872048",
+                        "facade": [
+                            "e89913a2-a322-43f3-b20f-07101ffc326f",
+                            "8a11204f-a497-4f43-81f9-9b0255e6b164",
+                            "375c2f31-855c-4129-892a-1bbc0ce94e5f",
+                            "37202f84-a1e3-4f0e-82d7-1e7fc4d50f20",
+                            "04d28f18-e01d-494f-a306-8f09ecbd747e",
+                            "40001afb-68c9-4f49-98a4-5281a9eb6b2e",
+                            "94393935-80cc-4c04-a0a0-b60ce726f5e7",
+                            "058fab13-e2e2-4fb7-8a18-d4e59b40f9f2"
+                        ],
+                        "no-org": [
+                            "e89913a2-a322-43f3-b20f-07101ffc326f",
+                            "d848b860-19bd-41cb-a1fe-46aa3e4220a4",
+                            "625785d5-954b-4c1e-ba98-f7e6bdc22131",
+                            "28b47347-e991-4e0a-a23f-3bbe0008dcfb",
+                            "cf25ec49-8cb5-465c-b752-4ca028a66ce2",
+                            "f7dc3c03-1390-4cf8-b405-42bab2c9466e",
+                            "227d6eed-4466-456e-9caa-24160be4c3f8"
+                        ],
+                        "org-weight": 30,
+                        "state": "no-org-closed",
+                        "toloka-native": false,
+                        "worker-coordinates": "55.6836815,37.4911961"
+                    }
+                }
+            ],
+            "status": "ACCEPTED",
+            "submitted": "2016-12-09T14:21:02.878",
+            "task_suite_id": "aa1f15a5-3618-4264-ba49-a118d61deb86",
+            "tasks": [
+                {
+                    "id": "831c4cef-7eb1-4a3e-9a27-037d8c12ce28",
+                    "input_values": {
+                        "address-ru": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0423\u0434\u0430\u043b\u044c\u0446\u043e\u0432\u0430, 42",
+                        "company-id": "661872048",
+                        "coordinates": "55.683752,37.491063",
+                        "country": "RU",
+                        "language": "RU",
+                        "meta": [
+                            {
+                                "permlink-id": 1042277433
+                            }
+                        ],
+                        "name-ru": "\u0415\u0432\u0440\u043e\u0441\u0435\u0442\u044c",
+                        "org-weight": "30",
+                        "rubric": [
+                            {
+                                "name-ru": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438",
+                                "rubric-id": 184107789
+                            }
+                        ]
+                    }
+                }
+            ],
+            "user_id": "96ca7f840b13ad9720f2c1d1be2d6ca8"
+        },
+        {
+            "accepted": "2017-01-09T10:24:10.577",
+            "created": "2017-01-08T10:06:30.454",
+            "id": "00030414-767b-408a-8226-e29392e57741",
+            "mixed": false,
+            "pool_id": "189591",
+            "reward": 0.5,
+            "solutions": [
+                {
+                    "output_values": {
+                        "address-no-org": [
+                            "4417c902-c06a-4e30-ba13-a5cae15b2ed3"
+                        ],
+                        "address-ru": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0443\u043b. \u041c\u0430\u043b\u0430\u044f \u041f\u043e\u0441\u0430\u0434\u0441\u043a\u0430\u044f, 25",
+                        "comment-no-org": "\u041f\u043e \u0434\u0430\u043d\u043d\u043e\u043c\u0443 \u0430\u0434\u0440\u0435\u0441\u0443 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0436\u0438\u043b\u043e\u0439 \u0434\u043e\u043c ",
+                        "company-id": "226659153",
+                        "facade": [],
+                        "no-org": [
+                            "9d2bd239-aaf5-4a6a-90c1-7a013220fd83"
+                        ],
+                        "org-weight": 30,
+                        "state": "no-org-closed",
+                        "toloka-native": false,
+                        "worker-coordinates": "59.9586071,30.3324131"
+                    }
+                }
+            ],
+            "status": "ACCEPTED",
+            "submitted": "2017-01-08T10:07:10.622",
+            "task_suite_id": "a7ddefbd-3930-44f1-bb3b-a61a49987e33",
+            "tasks": [
+                {
+                    "id": "e1b1f2c1-bcd7-4394-90cb-df54bfe082aa",
+                    "input_values": {
+                        "address-ru": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0443\u043b. \u041c\u0430\u043b\u0430\u044f \u041f\u043e\u0441\u0430\u0434\u0441\u043a\u0430\u044f, 25",
+                        "company-id": "226659153",
+                        "coordinates": "59.958408,30.331696",
+                        "country": "RU",
+                        "language": "RU",
+                        "meta": [
+                            {
+                                "permlink-id": 1200315581
+                            }
+                        ],
+                        "name-ru": "\u0426\u0432\u0435\u0442\u043e\u0447\u043d\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f Bouquet",
+                        "org-weight": "30",
+                        "rubric": [
+                            {
+                                "name-ru": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0432\u0435\u0442\u043e\u0432",
+                                "rubric-id": 184108325
+                            }
+                        ]
+                    }
+                }
+            ],
+            "user_id": "8c2a1651f80ccf941043d4025a089d15"
+        }
