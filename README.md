@@ -1,5 +1,5 @@
 # Python-ParserJsonToCsv
-After: Mesnyankin Alexey<br>
+Author: Mesnyankin Alexey<br>
 Data: 22/08/2017<br><br>
 Дано: json-файл<br>
 
