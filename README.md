@@ -1,9 +1,9 @@
 # Python-ParserJsonToCsv
 Author: Mesnyankin Alexey<br>
 Data: 22/08/2017<br><br>
-Дано: json-файл<br>
+Given: json file<br>
 
-Задача:<br>
+Task:<br>
 
-Извлечь из файла поля "created", "status", "coordinates", "id" (из блока "tasks"!), "user_id".<br> 
-Записать их в файл *.csv с разделителем TAB.
+Extract the fields "created", "status", "coordinates", "id" (from the "tasks" block!), "User_id" from the file.<br> 
+Write them to a * .csv file with a TAB delimiter.
